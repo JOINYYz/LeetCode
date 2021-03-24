@@ -1,7 +1,7 @@
 # LeetCode
 
 | # | Title | python | Tag | Difficulty | Version | Runtime | Memory | Date |
-|---| ----- | -------- | ---------- | ---------- |---|-----|-----|---------- |
+|---| ----- | -------- | ---------- | ---------- |--|----|----|----------|
 |0804|Unique Morse Code Words|[python3](./String/Unique_Morse_Code_Words.py)|String|Easy|V1|||2018/11/06
 |0929|Unique Email Addresses|[python3](./String/Unique_Email_Addresses.py)|String|Easy|V1|||2018/11/06
 |1365|How Many Numbers Are Smaller Than the Current Number|[python3](./Array/Easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.py)|Array|Easy|V1|524ms|14.4MB|2021/3/24
