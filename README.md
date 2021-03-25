@@ -1,7 +1,7 @@
 # LeetCode
 
 | # | Title | python | Tag | Difficulty | Version | Runtime | Memory | Date |
-|---| ----------- | -------- | -------- | ----- |--|---|---|-------|
+|---| -------------- | ----- | ----- | ----- |--|---|---|-------|
 |0804|Unique Morse Code Words|[python3](./String/Unique_Morse_Code_Words.py)|String|Easy|V1|||2018/11/06
 |0929|Unique Email Addresses|[python3](./String/Unique_Email_Addresses.py)|String|Easy|V1|||2018/11/06
 |1313|Decompress Run-Length Encoded List|[python3](./Array/Easy/1313_Decompress_Run-Length_Encoded_List.py)|Array|Easy|V1|28ms|14.2MB|2021/3/24
