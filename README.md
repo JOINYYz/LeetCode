@@ -4,6 +4,7 @@
 |---| -------------- | ----- | ----- | ----- |--|---|---|-------|
 |0804|Unique Morse Code Words|[python3](./String/Unique_Morse_Code_Words.py)|String|Easy|V1|||2018/11/06
 |0929|Unique Email Addresses|[python3](./String/Unique_Email_Addresses.py)|String|Easy|V1|||2018/11/06
+|1252|Cells with Odd Values in a Matrix|[python3](./Array/Easy/1252_Cells_with_Odd_Values_in_a_Matrix.py)|Array|Easy|V1|212ms|15MB|2021/3/26
 |1266|Minimum Time Visiting All Points|[python3](./Array/Easy/1266_Minimum_Time_Visiting_All_Points.py)|Array|Easy|V1|64ms|14.4MB|2021/3/25
 |1295|Find Numbers with Even Number of Digits|[python3](./Array/Easy/1295_Find_Numbers_with_Even_Number_of_Digits.py)|Array|Easy|V1|52ms|14.4MB|2021/3/25
 |1313|Decompress Run-Length Encoded List|[python3](./Array/Easy/1313_Decompress_Run-Length_Encoded_List.py)|Array|Easy|V1|28ms|14.2MB|2021/3/24
@@ -16,6 +17,7 @@
 |1512|Number of Good Pairs|[python3](./Array/Easy/1512_Number_of_Good_Pairs.py)|Array|Easy|V1|28ms|14.2MB|2021/3/24
 |1534|Count Good Triplets|[python3](./Array/Easy/1534_Count_Good_Triplets.py)|Array|Easy|V1|660ms|14MB|2021/3/25
 |1588|Sum of All Odd Length Subarrays|[python3](./Array/Easy/1588_Sum_of_All_Odd_Length_Subarrays.py)|Array|Easy|V1|72ms|14.4MB|2021/3/25
+|1656|Design an Ordered Stream|[python3](./Array/Easy/1656_Design_an_Ordered_Stream.py)|Array|Easy|V1|212ms|15MB|2021/3/26
 |1672|Richest Customer Wealth|[python3](./Array/Easy/1672_Richest_Customer_Wealth.py)|Array|Easy|V1|44ms|14.4MB|2021/3/24
 |1732|Find the Highest Altitude|[python3](./Array/Easy/1732_Find_the_Highest_Altitude.py)|Array|Easy|V1|32ms|14.1MB|2021/3/25
 |1773|Count Items Matching a Rule|[python3](./Array/Easy/1773_Count_Items_Matching_a_Rule.py)|Array|Easy|V1|236ms|20.5MB|2021/3/24
