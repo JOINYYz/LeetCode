@@ -1,7 +1,7 @@
 # LeetCode
 
-| # | Title | python | Tag | Difficulty | Version | Runtime | Memory | Date |
-|---| -------------- | ----- | ----- | ----- |--|---|---|-------|
+| # | Title | python | Tag | Difficulty | Version | Runtime | Memory | Date | Mark |
+|---| -------------- | ----- | ----- | ----- |--|---|---|-------|----|
 |0804|Unique Morse Code Words|[python3](./String/Unique_Morse_Code_Words.py)|String|Easy|V1|||2018/11/06
 |0832|Flipping an Image|[python3](./Array/Easy/832_Flipping_an_Image.py)|Array|Easy|V1|44ms|14.4MB|2021/3/28
 |0929|Unique Email Addresses|[python3](./String/Unique_Email_Addresses.py)|String|Easy|V1|||2018/11/06
@@ -25,5 +25,6 @@
 |1656|Design an Ordered Stream|[python3](./Array/Easy/1656_Design_an_Ordered_Stream.py)|Array|Easy|V1|212ms|15MB|2021/3/26
 |1672|Richest Customer Wealth|[python3](./Array/Easy/1672_Richest_Customer_Wealth.py)|Array|Easy|V1|44ms|14.4MB|2021/3/24
 |1732|Find the Highest Altitude|[python3](./Array/Easy/1732_Find_the_Highest_Altitude.py)|Array|Easy|V1|32ms|14.1MB|2021/3/25
+|1769|Minimum Number of Operations to Move All Balls to Each Box|[python3](./Array/Medium/1769_Minimum_Number_of_Operations_to_Move_All_Balls_to_Each_Box.py)|Array|Medium|V1|9584ms|14.7MB|2021/3/29|待改进
 |1773|Count Items Matching a Rule|[python3](./Array/Easy/1773_Count_Items_Matching_a_Rule.py)|Array|Easy|V1|236ms|20.5MB|2021/3/24
 
