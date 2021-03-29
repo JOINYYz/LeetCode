@@ -14,7 +14,8 @@
 |1431|Kids With the Greatest Number of Candies|[python3](./Array/Easy/1431_Kids_With_the_Greatest_Number_of_Candies.py)|Array|Easy|V1|40ms|14.3MB|2021/3/24
 |1450|Number of Students Doing Homework at a Given Time|[python3](./Array/Easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time.py)|Array|Easy|V1|36ms|14.4MB|2021/3/28
 |1464|Maximum Product of Two Elements in an Array|[python3](./Array/Easy/1464_Maximum_Product_of_Two_Elements_in_an_Array.py)|Array|Easy|V1|484ms|14.5MB|2021/3/24
-|1470|Shuffle the Arrayy|[python3](./Array/Easy/1470_Shuffle_the_Array.py)|Array|Easy|V1|44ms|14.5MB|2021/3/24
+|1470|Shuffle the Array|[python3](./Array/Easy/1470_Shuffle_the_Array.py)|Array|Easy|V1|44ms|14.5MB|2021/3/24
+|1476|Subrectangle Queries|[python3](./Array/Medium/1476_Subrectangle_Queries.py)|Array|Medium|V1|208ms|16MB|2021/3/29
 |1480|Running Sum of 1d Array|[python3](./Array/Easy/1480_Running_Sum_of_1d_Array.py)|Array|Easy|V1|36ms|14.5MB|2021/3/24
 |1486|XOR Operation in an Array|[python3](./Array/Easy/1486_XOR_Operation_in_an_Array.py)|Array|Easy|V1|32ms|14MB|2021/3/24
 |1512|Number of Good Pairs|[python3](./Array/Easy/1512_Number_of_Good_Pairs.py)|Array|Easy|V1|28ms|14.2MB|2021/3/24
