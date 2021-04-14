@@ -11,6 +11,7 @@
 |1313|Decompress Run-Length Encoded List|[python3](./Array/Easy/1313_Decompress_Run-Length_Encoded_List.py)|Array|Easy|V1|28ms|14.2MB|2021/3/24
 |1365|How Many Numbers Are Smaller Than the Current Number|[python3](./Array/Easy/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.py)|Array|Easy|V1|524ms|14.4MB|2021/3/24
 |1389|Create Target Array in the Given Order|[python3](./Array/Easy/1389_Create_Target_Array_in_the_Given_Order.py)|Array|Easy|V1|32ms|14.3MB|2021/3/24
+|1409|Queries on a Permutation With Key|[python3](./Array/Medium/1409_Queries_on_a_Permutation_With_Key.py)|Array|Medium|V1|212ms|14.5MB|2021/4/14
 |1431|Kids With the Greatest Number of Candies|[python3](./Array/Easy/1431_Kids_With_the_Greatest_Number_of_Candies.py)|Array|Easy|V1|40ms|14.3MB|2021/3/24
 |1450|Number of Students Doing Homework at a Given Time|[python3](./Array/Easy/1450_Number_of_Students_Doing_Homework_at_a_Given_Time.py)|Array|Easy|V1|36ms|14.4MB|2021/3/28
 |1464|Maximum Product of Two Elements in an Array|[python3](./Array/Easy/1464_Maximum_Product_of_Two_Elements_in_an_Array.py)|Array|Easy|V1|484ms|14.5MB|2021/3/24
